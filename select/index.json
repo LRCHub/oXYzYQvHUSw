@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Purpose",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-02-07T15:34:24.404753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Greater Purpose",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/01_A_Greater_Purpose_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soul Purpose",
+      "artist": "Nightmares On Wax",
+      "has_synced": false,
+      "path": "select/02_Soul_Purpose_Nightmares_On_Wax.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Move With Purpose",
+      "artist": "The Naked and Famous",
+      "has_synced": false,
+      "path": "select/03_To_Move_With_Purpose_The_Naked_and_Famous.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Purpose",
+      "artist": "Chris Travis",
+      "has_synced": false,
+      "path": "select/04_No_Purpose_Chris_Travis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Purpose",
+      "artist": "John Tartaglia feat. Avenue Q Ensemble",
+      "has_synced": true,
+      "path": "select/05_Purpose_John_Tartaglia_feat._Avenue_Q_Ensemble.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Purpose",
+      "artist": "John Tartaglia & Avenue Q Ensemble",
+      "has_synced": true,
+      "path": "select/06_Purpose_John_Tartaglia_&_Avenue_Q_Ensemble.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Purpose (Is No Country)",
+      "artist": "Ian William Craig",
+      "has_synced": false,
+      "path": "select/07_Purpose_(Is_No_Country)_Ian_William_Craig.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Purpose",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/08_Purpose_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brother With a Purpose",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/09_Brother_With_a_Purpose_Prince.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brother With A Purpose - Prince",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/10_Brother_With_A_Purpose_-_Prince_Prince.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sense of Purpose",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/11_Sense_of_Purpose_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sense of Purpose - Live",
+      "artist": "Pretenders",
+      "has_synced": false,
+      "path": "select/12_Sense_of_Purpose_-_Live_Pretenders.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sinister Purpose",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/13_Sinister_Purpose_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "With Great Purpose",
+      "artist": "Frankie Cosmos",
+      "has_synced": true,
+      "path": "select/14_With_Great_Purpose_Frankie_Cosmos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Purpose",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_Purpose_Furui_Riho.txt"
+    }
+  ]
+}
